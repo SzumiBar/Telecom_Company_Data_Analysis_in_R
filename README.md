@@ -1,0 +1,1 @@
+### Analysis of data from an Iranian telecom company's database. Entire analysis includes minor data preparation, EDA with some visualizations and statistical tests, as well as logistic regression model for prediction of customer churning.
